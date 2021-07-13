@@ -1,0 +1,13 @@
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\bin\Debug\netcoreapp3.1\DecodingTask.exe
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\bin\Debug\netcoreapp3.1\DecodingTask.deps.json
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\bin\Debug\netcoreapp3.1\DecodingTask.runtimeconfig.json
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\bin\Debug\netcoreapp3.1\DecodingTask.runtimeconfig.dev.json
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\bin\Debug\netcoreapp3.1\DecodingTask.dll
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\bin\Debug\netcoreapp3.1\DecodingTask.pdb
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\obj\Debug\netcoreapp3.1\DecodingTask.csprojAssemblyReference.cache
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\obj\Debug\netcoreapp3.1\DecodingTask.AssemblyInfoInputs.cache
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\obj\Debug\netcoreapp3.1\DecodingTask.AssemblyInfo.cs
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\obj\Debug\netcoreapp3.1\DecodingTask.csproj.CoreCompileInputs.cache
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\obj\Debug\netcoreapp3.1\DecodingTask.dll
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\obj\Debug\netcoreapp3.1\DecodingTask.pdb
+C:\Users\vasek\source\repos\DecodingTask\DecodingTask\obj\Debug\netcoreapp3.1\DecodingTask.genruntimeconfig.cache
